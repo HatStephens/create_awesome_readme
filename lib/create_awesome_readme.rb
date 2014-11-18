@@ -6,6 +6,6 @@ class CreateAwesomeReadme
   end
 
   def add_contents
-    system "curl "https://raw.githubusercontent.com/HatStephens/create_awesome_readme/master/template.txt" > README.md"
+    system "curl 'https://raw.githubusercontent.com/HatStephens/create_awesome_readme/master/template.txt' > README.md"
   end
 end
