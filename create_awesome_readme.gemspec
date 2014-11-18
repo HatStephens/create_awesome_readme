@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Stephen Giles"]
   spec.email         = [""]
   spec.summary       = "A gem to create awesome README.md on GitHub"
-  spec.description   = "This is an attempt to create a gem which helps GitHub users to create good README.md files. It should help them create consistent and detailed READMEs with a template which they edit with appropriate details."
+  spec.description   = "This is an attempt to create a gem which helps GitHub users to create awesome README.md files. It should help them create consistent and detailed READMEs with a template which they edit with appropriate details."
   spec.homepage      = ""
   spec.license       = "MIT"
 

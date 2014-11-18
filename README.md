@@ -1,6 +1,6 @@
 # CreateAwesomeReadme
 
-TODO: Write a gem description
+This is an attempt to create a gem which helps GitHub users to create awesome README.md files. It should help them create consistent and detailed READMEs with a template which they edit with appropriate details.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ create_awesome_readme
 
 ## Contributing
 
