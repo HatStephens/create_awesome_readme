@@ -1,0 +1,7 @@
+#!usr/bin/env ruby
+
+require 'create_awesome_readme'
+
+run = CreateAwesomeReadme.new
+run.create_new
+run.add_contents

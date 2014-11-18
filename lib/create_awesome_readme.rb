@@ -1,5 +1,11 @@
-require "create_awesome_readme/version"
+require_relative "create_awesome_readme/version"
 
-module CreateAwesomeReadme
-  # Your code goes here...
+class CreateAwesomeReadme
+  def create_new
+    system "touch README.md"
+  end
+
+  def add_contents
+    system "cat template.txt > README.md"
+  end
 end
